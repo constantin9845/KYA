@@ -1,0 +1,24 @@
+{
+  "name": "kya",
+  "version": "1.0.0",
+  "description": "Portfolio 2.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/constantin9845/KYA.git"
+  },
+  "author": "Konstantin Yakovlev Alexeevich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/constantin9845/KYA/issues"
+  },
+  "homepage": "https://github.com/constantin9845/KYA#readme",
+  "dependencies": {
+    "env": "^0.0.2",
+    "express": "^4.18.1",
+    "mysql2": "^2.3.3"
+  }
+}
